@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Development\Rust\decompress\target\debug\deps\libpowerfmt-d2f52dcd7df10f36.rmeta: C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Daniel\Desktop\Development\Rust\decompress\target\debug\deps\libpowerfmt-d2f52dcd7df10f36.rlib: C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Daniel\Desktop\Development\Rust\decompress\target\debug\deps\powerfmt-d2f52dcd7df10f36.d: C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs:
+C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs:
+C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs:
+C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs:
+C:\Users\Daniel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs:
